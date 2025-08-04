@@ -24,15 +24,6 @@ This project is a smart resume matching application that uses Natural Language P
 
 ---
 
-## 📁 Project Structure
-
-resume-matcher/
-├── app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-└── sample_resumes/ # (Optional) Folder for test resumes
-
----
-
 ## 💻 How It Works
 
 1. Job description and resumes are embedded using Sentence-BERT
