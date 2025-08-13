@@ -50,9 +50,10 @@ Output :
 📄 resume_digital_marketer.pdf — Match Score: 26.8%
 
 
-📬 Author
+## 📬 Author  
 
-Arihant Bakliwal
+[**Arihant Bakliwal**](https://github.com/arihantbakliwal)  
+
 
 
 
